@@ -1,24 +1,6 @@
-# CollectionBuilder-GH
+# College of Wooster's Herbarium Sheets Collection
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
-
-- a CSV of collection metadata
-- a folder of JPEG images, PDF documents, MP3s, or links to videos hosted on YouTube or Vimeo
-
-Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
-
-## Build a Digital Collection
-
-Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy) and [metadata docs](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
-
-Then click the green "use this template" button to create your repository, and add your metadata and configure the repository to fit your collection and settings following the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/). 
-
-Please feel free to ask questions in the main [CollectionBuilder discussion forum](https://github.com/CollectionBuilder/collectionbuilder.github.io/discussions).
-
-**Note:** 
-Since CollectionBuilder-GH uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. 
-GitHub repositories are limited to 1GB.
-For larger collections or those that require more customization, check out the [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
+The Herbarium Sheets Collection was created and donated by Mary Ronsheim while she was a student at the College of Wooster in 1950. The sheets contain leaves collected on the College of Wooster campus and at nearby locations in the community. This collection will be of particular interest to those interested in regional history and dendrology.
 
 ## CollectionBuilder-GH Quick Tutorial
 
