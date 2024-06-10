@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: College of Wooster Herbarium Sheets Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: created and donated by Mary Ronsheim
+tagline: learning how to use CollectionBuilder, DHSI 2024
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Herbarium Sheets Collection was created and donated by Mary Ronsheim while she was a student at the College of Wooster in 1950. The sheets contain leaves collected on the College of Wooster campus and at nearby locations in the community. This collection will be of particular interest to those interested in regional history and dendrology."
+description: "The Herbarium Sheets Collection was created and donated by Mary Ronsheim when she was a student at the College of Wooster in 1950. The sheets contain leaves collected on the College of Wooster campus and at nearby locations in the Wooster, Ohio community. This collection will be of particular interest to those interested in regional history and dendrology. The collection was digitized in 2014 and lives permanently on OpenWorks, the College of Wooster's institutional repository. This particular selection of herbarium sheets was used as a pilot to learn CollectionBuilder at the Digital Humanities Summer Institute 2024 (DHSI 2024)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Katie Farr
 
